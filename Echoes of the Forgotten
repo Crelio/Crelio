@@ -1,4 +1,5 @@
-```python
+A collection of unseen algorithms, whispering through time. The code reveals something deeper every time it's run, symbolizing the unknown truths buried in the past.
+
 import time
 import random
 def time_dilation(depth):
