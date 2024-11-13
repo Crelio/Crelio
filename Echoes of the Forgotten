@@ -1,10 +1,8 @@
 A collection of unseen algorithms, whispering through time. The code here represents cryptic algorithms that appear simple at first glance, but hint at deeper complexity when explored.
 
-# Echoes of the Forgotten: An algorithm of recursive time and cryptic messages
 import time
 import random
 
-# Time dilation to simulate the 'forgotten' aspect.
 def time_dilation(depth):
     """Simulates time dilation as the algorithm deepens."""
     return random.uniform(1, 2) * (depth + 1)
@@ -17,25 +15,20 @@ def forgotten_echo(depth=0, max_depth=7):
     if depth > max_depth:
         return
     
-    # Simulate echo with varying depths of complexity and mystery.
     print(f"Echo {depth}: The code trembles... Did you hear that?")
     
-    # Time dilation increases as depth grows, creating temporal inconsistencies.
     time.sleep(time_dilation(depth))  # Time is no longer constant at deeper levels.
 
     forgotten_echo(depth + 1, max_depth)  # Continue deeper into the recursion
     
-    # Cryptic and unsettling messages after deeper recursion
     if depth == max_depth:
         print("\nFinal Echo: Time itself is broken. The answers are buried in forgotten code.")
         print("The question you seek is not within this code. It is beyond.")
     elif depth == max_depth - 1:
         print("\nEcho " + str(depth) + ": The algorithm is shifting... Reality itself is bending.")
     
-    # Random hidden message, only revealed at odd depths to increase mystery.
     if depth % 2 == 0 and random.random() < 0.2:
         print(f"Echo {depth}: Unseen voices whisper in the algorithm. They say, 'Not everything is what it seems.'")
 
-# Start the recursive echoes.
 print("Initializing Echoes of the Forgotten...")
 forgotten_echo()
