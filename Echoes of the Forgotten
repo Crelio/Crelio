@@ -2,7 +2,7 @@ A collection of unseen algorithms, whispering through time. The code here repres
 
 import time
 import random
-
+```python
 def time_dilation(depth):
     """Simulates time dilation as the algorithm deepens."""
     return random.uniform(1, 2) * (depth + 1)
