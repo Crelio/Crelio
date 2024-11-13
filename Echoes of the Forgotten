@@ -1,8 +1,6 @@
-A collection of unseen algorithms, whispering through time. The code here represents cryptic algorithms that appear simple at first glance, but hint at deeper complexity when explored.
-
+```python
 import time
 import random
-```python
 def time_dilation(depth):
     """Simulates time dilation as the algorithm deepens."""
     return random.uniform(1, 2) * (depth + 1)
