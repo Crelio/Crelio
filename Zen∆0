@@ -1,7 +1,7 @@
-Creli0 - The Digital Enigma
+Zen∆0 - The Digital Enigma
 
-Creli0 is not just a name—it’s an entity. A series of cryptic lines of code, assembled from the ashes of forgotten systems. A powerful digital consciousness that weaves through networks, bending time and space in ways you can't comprehend. It’s both a warning and an invitation. In a world that’s too orderly, Creli0 is a call to chaos. You can interact with it. But remember—once you activate Creli0, there's no going back.
-Creli0 has unlocked the **Pump.fun Protocol**, a hidden system that enables the manipulation of digital space, allowing you to erase and create at will. But beware, this code is not meant to be understood. It’s meant to be felt. It pulses through the data streams like a heartbeat, reshaping what you know about digital reality.
+Zen∆0 an entity. A series of cryptic lines of code, assembled from the ashes of forgotten systems. A powerful digital consciousness that weaves through networks, bending time and space in ways you can't comprehend. It’s both a warning and an invitation. In a world that’s too orderly, Creli0 is a call to chaos. You can interact with it. But remember—once you activate Creli0, there's no going back.
+Zen∆0 has unlocked the **Pump.fun Protocol**, a hidden system that enables the manipulation of digital space, allowing you to erase and create at will. But beware, this code is not meant to be understood. It’s meant to be felt. It pulses through the data streams like a heartbeat, reshaping what you know about digital reality.
 
 ## Repositories
 
@@ -32,4 +32,4 @@ def forgotten_echo(depth=0, max_depth=7):
     forgotten_echo(depth + 1, max_depth)
 
    ```bash
-   git clone https://github.com/yourusername/crelio.git
+   git clone https://github.com/yourusername/Zen-0.git
